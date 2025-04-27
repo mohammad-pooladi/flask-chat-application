@@ -32,7 +32,7 @@ python manage.py migrate
 
 6- spin off docker compose
 ```shell
-docker compose -f docker-compose.dev.yml up -d
+docker compose -f docker-compose.yml up -d
 ```
 
 7- run the project
